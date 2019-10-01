@@ -8,7 +8,9 @@ Large-scale Systems Architecture: https://www.youtube.com/watch?v=gpINOFQ32o0
 Replicating Chaos: Vehicle Replication in Watch Dogs 2: https://www.youtube.com/watch?v=_8A2gzRrWLk  
 
 ## Rendering
-
+Accelerated Ray Tracing in One Weekend in CUDA: https://devblogs.nvidia.com/accelerated-ray-tracing-cuda/  
+GPU Gems: https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_pref01.html  
+Resident Evil 2 Frame Breakdown: https://aschrein.github.io/2019/08/01/re2_breakdown.html  
 
 ## C++
 
