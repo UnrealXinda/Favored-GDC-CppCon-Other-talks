@@ -5,6 +5,7 @@ A curated list of blogs/videos that serves as my indices to knowledge
 
 Data-Driven Dynamic Gameplay Effects on For Honor: https://www.youtube.com/watch?v=JgSvuSaXs3E  
 Large-scale Systems Architecture: https://www.youtube.com/watch?v=gpINOFQ32o0
+Replicating Chaos: Vehicle Replication in Watch Dogs 2: https://www.youtube.com/watch?v=_8A2gzRrWLk  
 
 ## Rendering
 
