@@ -23,3 +23,4 @@ The Best Parts of C++: https://www.youtube.com/watch?v=iz5Qx18H6lg&t=332s
 Path Tracing Three Ways: A Study of C++ Style: https://www.youtube.com/watch?v=HG6c4Kwbv4I  
 
 ## UE4
+Detailed explanation of UE4 cast including runtime cost: https://peterleontev.com/blog/unreal_cast/  
