@@ -6,6 +6,7 @@ A curated list of blogs/videos that serves as my indices to knowledge
 Data-Driven Dynamic Gameplay Effects on For Honor: https://www.youtube.com/watch?v=JgSvuSaXs3E  
 Large-scale Systems Architecture: https://www.youtube.com/watch?v=gpINOFQ32o0  
 Replicating Chaos: Vehicle Replication in Watch Dogs 2: https://www.youtube.com/watch?v=_8A2gzRrWLk  
+Ellie: Buddy AI In The Last Of Us: https://www.youtube.com/watch?v=dnGzEn6swqo  
 
 ## Rendering
 Accelerated Ray Tracing in One Weekend in CUDA: https://devblogs.nvidia.com/accelerated-ray-tracing-cuda/  
