@@ -13,6 +13,9 @@ Accelerated Ray Tracing in One Weekend in CUDA: https://devblogs.nvidia.com/acce
 GPU Gems: https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_pref01.html  
 Resident Evil 2 Frame Breakdown: https://aschrein.github.io/2019/08/01/re2_breakdown.html  
 
+## Physics
+Advanced Character Physics: http://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf  
+
 ## C++
 
 Back to the Basics! Essentials of Modern C++ Style: https://www.youtube.com/watch?v=xnqTKD8uD64&t=2669s  
