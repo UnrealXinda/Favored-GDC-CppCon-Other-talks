@@ -25,6 +25,7 @@ C++ in Huge AAA Games: https://www.youtube.com/watch?v=qYN6eduU06s
 This Videogame Programmer Used the STL and You Will Never Guess What Happened Next: https://www.youtube.com/watch?v=6hC9IxqdDDw&t=1153s  
 The Best Parts of C++: https://www.youtube.com/watch?v=iz5Qx18H6lg&t=332s  
 Path Tracing Three Ways: A Study of C++ Style: https://www.youtube.com/watch?v=HG6c4Kwbv4I  
+Curiously Recurring C++ Bugs at Facebook: https://www.youtube.com/watch?v=lkgszkPnV8g  
 
 ## UE4
 Detailed explanation of UE4 cast including runtime cost: https://peterleontev.com/blog/unreal_cast/  
